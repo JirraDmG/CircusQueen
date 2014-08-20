@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\AcceleredBallMovement.cs">
+    <Files>
+      <File FileName="Assets\AcceleredBallMovement.cs" Line="56" Column="1" />
+      <File FileName="Assets\AcceleredBallMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\TouchTheGround.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
